@@ -2,6 +2,7 @@
   "name": "age-calculator-froentmentor",
   "private": true,
   "version": "0.0.0",
+  "author": "Ivanosquis10",
   "type": "module",
   "scripts": {
     "dev": "vite",
